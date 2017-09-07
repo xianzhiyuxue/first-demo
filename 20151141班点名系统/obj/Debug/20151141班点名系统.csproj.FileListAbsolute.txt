@@ -1,0 +1,53 @@
+E:\360WangPan\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe
+E:\360WangPan\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.pdb
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csprojResolveAssemblyReference.cache
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Properties.Resources.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csproj.GenerateResource.Cache
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.exe
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.pdb
+E:\360WangPan\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe.config
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form1.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form2.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form3.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.EXIT.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.修改密码.resources
+E:\360WangPan\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.确认修改.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe.config
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.exe
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.pdb
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.pdb
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csprojResolveAssemblyReference.cache
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.EXIT.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form1.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form2.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form3.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Properties.Resources.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.修改密码.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.确认修改.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csproj.GenerateResource.Cache
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\bin\Debug\IrisSkin4.dll
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.skin.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.room.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.class.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.寝室长.resources
+E:\360WangPan\20151141班点名系统 修\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.帮助文档.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe.config
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.exe
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.pdb
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.exe
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\bin\Debug\20151141班点名系统.pdb
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csprojResolveAssemblyReference.cache
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.class.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.EXIT.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form1.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form2.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Form3.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.Properties.Resources.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.room.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.skin.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.修改密码.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.寝室长.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.帮助文档.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\_20151141班点名系统.确认修改.resources
+C:\Users\许先志\Desktop\20151141班点名系统\20151141班点名系统\obj\Debug\20151141班点名系统.csproj.GenerateResource.Cache
